@@ -1,0 +1,1 @@
+<h1>Python中的正则表达式应用实例</h1><br /><p>Python的re模块是Python中用于处理正则表达式的强大工具。通过这个模块，我们可以编写复杂的匹配模式来查找替换和分割字符串。例如，我们可以使用d来匹配一个或多个数字，或者使用a-z来匹配所有小写字母。此外，我们还可以使用来表示逻辑或，如abcdef将匹配abc或def。</p><p>https://www.jizhi-dataset.top/index/code/detail/33?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/code/detail/33?ref=github" target="_blank">【集智数据集】Python中的正则表达式应用实例--原文链接</a>
