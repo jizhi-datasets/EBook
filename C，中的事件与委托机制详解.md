@@ -1,0 +1,1 @@
+<h1>C，中的事件与委托机制详解</h1><br /><p>事件与委托是实现松耦合事件驱动程序设计的关键机制。它们允许将事件处理逻辑从业务逻辑中解耦，使得组件间的交互更加灵活和可扩展。在事件驱动架构中，当事件发生时，系统会触发相应的事件并通知相关的处理程序或称为监听器来响应。通过定义和组合事件以及相应的委托方法，我们可以构建一个高效可维护且易于扩展的系统。</p><p>https://www.jizhi-dataset.top/index/code/detail/32?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/code/detail/32?ref=github" target="_blank">【集智数据集】C，中的事件与委托机制详解--原文链接</a>
