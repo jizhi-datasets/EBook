@@ -1,0 +1,1 @@
+<h1>如何在C++中使用STL的vector容器</h1><br /><p>在C++中，STL的vector容器是一种动态数组，可以存储任意类型的数据。通过使用vector容器，我们可以方便地实现对数据的插入删除和遍历操作。同时，vector容器还支持模板编程，使得我们可以根据需要创建不同类型的vector容器，从而实现类型通用性。</p><p>https://www.jizhi-dataset.top/index/code/detail/61?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/code/detail/61?ref=github" target="_blank">【集智数据集】如何在C++中使用STL的vector容器--原文链接</a>
