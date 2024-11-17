@@ -1,0 +1,1 @@
+<h1>使用RaspberryPi搭建家庭网络存储系统（NAS）</h1><br /><p>RaspberryPiNAS存储服务器是一种利用RaspberryPi作为网络附加存储（NAS）设备的设置。通过Samba服务和外接硬盘，用户可以在本地访问并管理NAS上的文件。本教程将指导您如何搭建这样一个系统，适合家庭用户使用。</p><p>https://www.jizhi-dataset.top/index/blog/detail/45?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/blog/detail/45?ref=github" target="_blank">【集智数据集】使用RaspberryPi搭建家庭网络存储系统（NAS）--原文链接</a>
