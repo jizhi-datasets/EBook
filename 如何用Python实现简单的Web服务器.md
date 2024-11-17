@@ -1,0 +1,1 @@
+<h1>如何用Python实现简单的Web服务器</h1><br /><p>Python的http.server库提供了一个简单易用的HTTP服务器，可以用于演示和学习HTTP协议。通过这个库，我们可以创建一个本地的简易HTTP服务器，处理GET请求并返回响应数据。此外，我们还可以通过文件系统展示静态资源的托管代码。</p><p>https://www.jizhi-dataset.top/index/blog/detail/50?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/blog/detail/50?ref=github" target="_blank">【集智数据集】如何用Python实现简单的Web服务器--原文链接</a>
