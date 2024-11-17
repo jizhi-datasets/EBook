@@ -1,0 +1,1 @@
+<h1>如何用C，编写简单的图形用户界面（GUI）程序</h1><br /><p>本文将介绍如何使用C，编写一个简单的图形用户界面（GUI）程序，该程序使用WindowsForms框架创建。我们将展示如何设计窗口添加按钮事件处理以及实现文本框的交互功能。通过本教程，您将了解如何在C，中创建和管理图形用户界面的基本概念。</p><p>https://www.jizhi-dataset.top/index/code/detail/62?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/code/detail/62?ref=github" target="_blank">【集智数据集】如何用C，编写简单的图形用户界面（GUI）程序--原文链接</a>
