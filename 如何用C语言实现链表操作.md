@@ -1,0 +1,1 @@
+<h1>如何用C语言实现链表操作</h1><br /><p>本篇文章将介绍如何使用C语言实现链表操作。通过指针动态创建和管理单链表，实现链表的插入删除查找和遍历功能。同时，也会展示如何处理链表中的内存管理。</p><p>https://www.jizhi-dataset.top/index/code/detail/75?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/code/detail/75?ref=github" target="_blank">【集智数据集】如何用C语言实现链表操作--原文链接</a>
