@@ -1,0 +1,1 @@
+<h1>SpringBoot与Kubernetes云原生应用构建高效可扩展的微服务架构</h1><br /><p>SpringBoot与Kubernetes结合，构建高效可扩展的微服务架构。深入了解SpringBoot在Kubernetes中的实践，以及如何利用云原生技术实现应用的快速部署扩展和维护。</p><p>https://www.jizhi-dataset.top/index/blog/detail/63?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/blog/detail/63?ref=github" target="_blank">【集智数据集】SpringBoot与Kubernetes云原生应用构建高效可扩展的微服务架构--原文链接</a>
