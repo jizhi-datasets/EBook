@@ -1,0 +1,1 @@
+<h1>Python中的Pathlib模块高效文件路径操作指南</h1><br /><p>Pathlib是Python3.8及更高版本中新增的一个模块，用于处理文件和目录路径。它提供了一种简洁高效的方式来创建读取删除和重命名文件和目录。通过使用Pathlib，我们可以简化代码并提高开发效率。</p><p>https://www.jizhi-dataset.top/index/code/detail/109?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/code/detail/109?ref=github" target="_blank">【集智数据集】Python中的Pathlib模块高效文件路径操作指南--原文链接</a>
