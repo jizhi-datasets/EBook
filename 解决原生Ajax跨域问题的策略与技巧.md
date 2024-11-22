@@ -1,0 +1,1 @@
+<h1>解决原生Ajax跨域问题的策略与技巧</h1><br /><p>原生Ajax跨域问题通常源于浏览器的安全策略，阻止了不同源的请求。为了解决这一问题，我们可以通过设置HTTP头信息使用JSONP等方法来绕过安全限制。同时，了解和利用CORS（跨域资源共享）原理，也是解决跨域问题的重要途径。</p><p>https://www.jizhi-dataset.top/index/code/detail/131?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/code/detail/131?ref=github" target="_blank">【集智数据集】解决原生Ajax跨域问题的策略与技巧--原文链接</a>
