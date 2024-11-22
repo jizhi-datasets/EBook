@@ -1,0 +1,1 @@
+<h1>华为云ModelArts在图像识别领域的应用与优势</h1><br /><p>华为云ModelArts是华为推出的一站式人工智能开发平台，专注于图像识别技术。该平台提供了丰富的模型库和工具，帮助开发者快速构建和部署图像识别应用。在实际应用中，华为云ModelArts能够实现高精度的图像识别效果，同时降低了开发门槛和成本。</p><p>https://www.jizhi-dataset.top/index/code/detail/136?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/code/detail/136?ref=github" target="_blank">【集智数据集】华为云ModelArts在图像识别领域的应用与优势--原文链接</a>
