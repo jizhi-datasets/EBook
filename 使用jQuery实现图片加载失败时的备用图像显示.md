@@ -1,0 +1,1 @@
+<h1>使用jQuery实现图片加载失败时的备用图像显示</h1><br /><p>在网页开发中，当图片无法加载时，我们常常需要提供一种替代方案，以保持用户体验。本文将介绍如何使用jQuery来处理这种情况，并展示如何为不同的图片路径生成备用图像。</p><p>https://www.jizhi-dataset.top/index/code/detail/154?ref=github</p><br /><br /><a href="https://www.jizhi-dataset.top/index/code/detail/154?ref=github" target="_blank">【集智数据集】使用jQuery实现图片加载失败时的备用图像显示--原文链接</a>
